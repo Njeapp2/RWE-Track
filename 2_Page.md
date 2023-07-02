@@ -1,6 +1,6 @@
 layout: page
 title: "Atom2"
-permalink: /RWE-Track/Atom2
+permalink: /RWE-Track/2_Page
 # Primary metal resources
 ![alt text](https://github.com/Njeapp2/RWE-Track/blob/main/2_Photo.webp)
 
