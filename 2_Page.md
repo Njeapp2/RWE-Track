@@ -1,4 +1,6 @@
-layout: page title: "Primary metal resources" permalink: /Atom2
+layout: page
+title: "Atom2"
+permalink: /Atom2
 # Primary metal resources
 ![alt text](https://github.com/Njeapp2/RWE-Track/blob/main/2_Photo.webp)
 
