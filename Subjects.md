@@ -11,7 +11,7 @@ The subjects treated on this webpage are:
  </dl>
 
 https://github.com/Njeapp2/RWE-Track
- <a href="Njeapp2.github.io/2_PrimaryMetalResources.pdf" target="_blank">PDF.</a>
+ <a href="2_PrimaryMetalResources.pdf" target="_blank">PDF.</a>
 
  
  
