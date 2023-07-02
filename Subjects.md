@@ -1,12 +1,6 @@
----
+The subjects treated on this webpage are:
 
-
----
-
-<p>The subjects treated on this webpage are:</p>
-<ol>
-<li>Why Circular?</li>
-<li>Primary metal resources</li>
-<li>Limits on Greenhouse gases</li>
-</ol>
+ 1. Why Circular?
+ 2. Primary metal resources
+ 3. Limits on Greenhouse gases
 
