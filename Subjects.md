@@ -11,7 +11,9 @@ The subjects treated on this webpage are:
  </dl>
 
 https://github.com/Njeapp2/RWE-Track
- <a href="Njeapp2.github.io/2_PrimaryMetalResources.pdf" target="_blank">PDF.</a>
+ <a href="Njeapp2.github.io/L1-Principles of Circularity -Lecture Slides.pdf" target="_blank">PDF.</a>
+
+ 
  
  3. Primary metal resources
  4. Limits on Greenhouse gases
