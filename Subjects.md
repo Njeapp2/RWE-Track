@@ -6,12 +6,13 @@ The subjects treated on this webpage are:
 
  1. Why Circular?
     
-<dl>
- <a href="2_ PrimaryMetalResources.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
- </dl>
+ <a href="2_PrimaryMetalResources.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 https://github.com/Njeapp2/RWE-Track
  <a href="2_PrimaryMetalResources.pdf" target="_blank">PDF.</a>
+
+
+ 
 
  
  
