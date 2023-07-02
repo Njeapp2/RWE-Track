@@ -9,6 +9,9 @@ The subjects treated on this webpage are:
 <dl>
  <a href="2_ PrimaryMetalResources.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
  </dl>
+
+https://github.com/Njeapp2/RWE-Track
+ <a href="Njeapp2.github.io/2_ PrimaryMetalResources.pdf" target="_blank">PDF.</a>
  
  3. Primary metal resources
  4. Limits on Greenhouse gases
