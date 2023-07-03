@@ -1,8 +1,7 @@
 
 # Primary metal resources
-![alt text](https://github.com/Njeapp2/RWE-Track/blob/main/2_Photo.jpg)
 
-<img src="2_Photo.jpg" width="100" height="100">
+<img src="2_Photo.jpg" width="500" height="300">
 
 After a long period of stability in the 90’s, oil, metal and phosphate prices suddenly went through the
 roof as the Chinese economy expanded to a world-class player in 2003-2007. The severe economic
