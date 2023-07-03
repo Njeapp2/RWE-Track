@@ -29,7 +29,7 @@ shrink abruptly to the level matching the low rate of (re-)generation.
 
 Humans use biological and solar-based resources,
 such as food, cotton and hydropower, along with
-fossil fuels, metals and minerals. The first
+fossil fuels, [metals](https://njeapp2.github.io/RWE-Track/2_Page) and minerals. The first
 resources have a relatively small reservoir and a
 high rate of regeneration, while the last resources
 are taken from large reservoirs and have a very
