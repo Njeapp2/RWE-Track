@@ -25,7 +25,7 @@ was largely due to the depletion of indigenous
 resources for the period 2000-2010[^1]. BREE also
 concluded that Canadian and US mining
 operations showed a similar average decrease of
-metal production per unit input of labour and investment in that same period. G. Calvo et al.2 observed
+metal production per unit input of labour and investment in that same period. G. Calvo et al[^2] observed
 that the average ore grade of 25 analysed copper mines, together representing 32% of world copper
 production, went down by approx. 25% from 2003 to 2013.
 
@@ -36,7 +36,7 @@ of consumption if the decrease in ore grade
 $c$ [kg metal/kg ore] could be predicted as a
 function of the cumulative amount $P$ [tons] of
 metal produced from the world ore bodies.
-Studies of Australian mining by Gavin Mudd3
+Studies of Australian mining by Gavin Mudd[^3]
 revealed the development of ore grade in the
 20th century. Starting from about 1900, his noisy
 data can be fit with various model functions, e.g.
@@ -49,4 +49,6 @@ essentially (see box at left).
 
 Click [here](https://njeapp2.github.io/RWE-Track/3_Page) to continue reading 
 
-[^1]: Test
+[^1]: A. Syed et al., Productivity in the Australian Mining Sector, BREE March 2013.
+[^2]:G. Calvo et al., Decreasing Ore Grades in Global Metallic Mining: A Theoretical Issue or a Global Reality, Resources 2016.
+[^3}: G. Mudd, Research Report 5: The Sustainability of Mining in Australia – Key Production Trends and Their Environmental Implications for the Future, 2009.
