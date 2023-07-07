@@ -30,11 +30,6 @@ of vector/water-borne diseases;
 * Migration of human populations.
 
 <img src="3_Photo2.png" width="50%" height="50%">
-Sea level rise predicted by the IPCC for scenario’s
-involving varying future rates of greenhouse gas
-emissions[^2].
-
-
 
 Analysts at the IPCC estimate that these indirect effects will become critical at a 2°C rise of the average
 global surface temperature (at a cumulative GHG emission of ca 5500 Gt CO<sub>2</sub>eq). A major problem
