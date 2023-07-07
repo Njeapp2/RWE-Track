@@ -51,4 +51,4 @@ Click [here](https://njeapp2.github.io/RWE-Track/3_Page) to continue reading
 
 [^1]: A. Syed et al., Productivity in the Australian Mining Sector, BREE March 2013.
 [^2]:G. Calvo et al., Decreasing Ore Grades in Global Metallic Mining: A Theoretical Issue or a Global Reality, Resources 2016.
-[^3}: G. Mudd, Research Report 5: The Sustainability of Mining in Australia – Key Production Trends and Their Environmental Implications for the Future, 2009.
+[^3]: G. Mudd, Research Report 5: The Sustainability of Mining in Australia – Key Production Trends and Their Environmental Implications for the Future, 2009.
