@@ -48,3 +48,5 @@ Note that for large values of P predictions differ
 essentially (see box at left).
 
 Click [here](https://njeapp2.github.io/RWE-Track/3_Page) to continue reading 
+
+[^1]: Test
