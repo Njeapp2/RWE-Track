@@ -5,6 +5,8 @@ Human beings have been taking control over their food supply and living conditio
 past 10,000 years. However, since about the year 1900 many key parameters of human civilization
 show what appears like an accelerated exponential growth (see box below).
 
+<img src="1_Photo2.png" width="50%" height="50%">
+
 Exponential growth is a feature of biological
 systems that are not limited by resource scarcity
 or predation. After an initial phase of uncontrolled
@@ -22,10 +24,12 @@ consumption balances the rate of regeneration.
 In this case, population growth will flatten and
 the size of the population converges gradually to
 its maximum sustainable level (see figure below
-for seals1). Populations crash if some critical resource was initially present as a large reservoir but with
+for seals[^1]). Populations crash if some critical resource was initially present as a large reservoir but with
 no or only a minor rate of (re-)generation. In this case, the population will expand until the stock is
 depleted. At this point, the size and consumption of the population cannot be sustained, and so it will
 shrink abruptly to the level matching the low rate of (re-)generation.
+
+<img src="1_Photo3.png" width="50%" height="50%">
 
 Humans use biological and solar-based resources,
 such as food, cotton and hydropower, along with
@@ -46,3 +50,5 @@ metals and minerals resources?
 of critical resources)?
 
 Click [here](https://njeapp2.github.io/RWE-Track/2_Page) to continue reading 
+
+[^1]: Victor B. Scheffer, The rise and fall of a reindeer herd; S. Jeffries et al., Trends and Status of Harbor Seals in Washington state: 1978-1999.
