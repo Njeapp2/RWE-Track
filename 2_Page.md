@@ -49,7 +49,7 @@ $c(P) = c_{1900} e^{-\alpha P};    c(P) = c_{1900}/(1 + \beta P)^\gamma$
 Note that for large values of P predictions differ
 essentially (see box underneath).
 
-<img src="2_Photo3.jpg">
+<img src="2_Photo3.png width=70%, height=70%">
 
 Click [here](https://njeapp2.github.io/RWE-Track/3_Page) to continue reading 
 
