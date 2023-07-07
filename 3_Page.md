@@ -12,7 +12,7 @@ and,
 * an increasing acidity of the oceans (a drop in pH of 0.1 at 2000 Gt of cumulative CO2).
 
 Historical data (1970-2015) show that the rate of the world’s GHG emissions increased approximately linearly with time:
-$ GHG \\ [Gt CO2eq/y] = 50 + 0.6(y - 2010)$
+$GHG \\ [Gt CO2eq/y] = 50 + 0.6(y - 2010)$
  
 Different scenario’s for future GHG emissions
 exist, in which these emissions accelerate or
@@ -29,7 +29,7 @@ indirect effects of GHG emissions:
 of vector/water-borne diseases;
 * Migration of human populations.
 
-<img src="3_Photo.jpg" width="500" height="300">
+<img src="3_Photo2.png" width="50%" height="50%">
 
 Analysts at the IPCC estimate that these indirect effects will become critical at a 2°C rise of the average
 global surface temperature (at a cumulative GHG emission of ca 5500 Gt CO2eq). A major problem
