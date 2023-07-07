@@ -1,6 +1,12 @@
+# Sustainability and the Circular Economy
+
+<img src="4_Photo.jpg" width="50%" height="50%">
+
 The biosphere of the Earth is a remarkably circular system. Elements and compounds that are basic to
 life are continuously recycled between plants, animals and the soils, oceans and atmosphere (see box
 below for *Carbon*).
+
+<img src="4_Photo2.png" width="50%" height="50%">
 
 Before the appearance on Earth of human
 beings, and even for some time after, the
