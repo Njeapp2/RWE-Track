@@ -33,8 +33,8 @@ Ore grade is an important parameter for the cost
 of metal production. Therefore, future metal
 prices could be estimated for different scenarios
 of consumption if the decrease in ore grade
- kg metal/kg ore could be predicted as a
-function of the cumulative amount  tons of
+$c [kg metal/kg ore]$ could be predicted as a
+function of the cumulative amount $P [tons]$ of
 metal produced from the world ore bodies.
 Studies of Australian mining by Gavin Mudd3
 revealed the development of ore grade in the
@@ -42,8 +42,7 @@ revealed the development of ore grade in the
 data can be fit with various model functions, e.g.
 with exponential or power law models,
 
-c(p) = c_1900;  = 1900/1 + 
-$c(P) = c_{1900} * e^{-\alpha P}; c(P) = c_{1900}/(1 + \beta P)^\gamma$
+$c(P) = c_{1900} e^{-\alpha P};    c(P) = c_{1900}/(1 + \beta P)^\gamma$
 
 Note that for large values of P predictions differ
 essentially (see box at left).
