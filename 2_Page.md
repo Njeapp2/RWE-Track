@@ -33,8 +33,8 @@ Ore grade is an important parameter for the cost
 of metal production. Therefore, future metal
 prices could be estimated for different scenarios
 of consumption if the decrease in ore grade
-$c [kg metal/kg ore]$ could be predicted as a
-function of the cumulative amount $P [tons]$ of
+$c$ [kg metal/kg ore] could be predicted as a
+function of the cumulative amount $P$ [tons] of
 metal produced from the world ore bodies.
 Studies of Australian mining by Gavin Mudd3
 revealed the development of ore grade in the
