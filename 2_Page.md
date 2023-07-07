@@ -7,14 +7,14 @@ After a long period of stability in the 90’s, oil, metal and phosphate prices 
 roof as the Chinese economy expanded to a world-class player in 2003-2007. The severe economic
 crisis that followed did not bring prices back to former levels (see box below). The understanding that
 future prices of resources and restricted access to mining deposits could hurt advanced economies
-triggered an action of the European Commission towards resource efficiency in 2008.
+triggered an action of the European Commission towards *resource efficiency* in 2008.
 
 Market prices for metals and minerals fluctuate
 on a short timescale because mining operations
 are not always able to respond quickly enough to
 changes in demand. However, in the long term,
-prices reflect the costs of production for the least
-attractive (economically most marginal) mines
+prices reflect the costs of production for the *least
+attractive* (economically most marginal) mines
 in actual operation. Several authors reported the
 effect of resource depletion on the development
 of the cost of mining operations in the last
@@ -22,7 +22,7 @@ decades. Australian BREE reported an average
 downfall of 33% of mining efficiency (which
 miners call multifactor productivity: MFP) that
 was largely due to the depletion of indigenous
-resources for the period 2000-20101. BREE also
+resources for the period 2000-2010[^1]. BREE also
 concluded that Canadian and US mining
 operations showed a similar average decrease of
 metal production per unit input of labour and investment in that same period. G. Calvo et al.2 observed
