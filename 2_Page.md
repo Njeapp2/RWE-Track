@@ -18,7 +18,7 @@ attractive* (economically most marginal) mines
 in actual operation. Several authors reported the
 effect of resource depletion on the development
 of the cost of mining operations in the last
-decades. Australian BREE reported an average
+decades. Australian BREE reported an *average*
 downfall of 33% of mining efficiency (which
 miners call multifactor productivity: MFP) that
 was largely due to the depletion of indigenous
