@@ -9,7 +9,7 @@ crisis that followed did not bring prices back to former levels (see box below).
 future prices of resources and restricted access to mining deposits could hurt advanced economies
 triggered an action of the European Commission towards *resource efficiency* in 2008.
 
-<img src="2_Photo2.png">
+<img src="2_Photo2.png"  width=70%, height=70%>
 
 Market prices for metals and minerals fluctuate
 on a short timescale because mining operations
@@ -49,7 +49,7 @@ $c(P) = c_{1900} e^{-\alpha P};    c(P) = c_{1900}/(1 + \beta P)^\gamma$
 Note that for large values of P predictions differ
 essentially (see box underneath).
 
-<img src="2_Photo3.png width=70%, height=70%">
+<img src="2_Photo3.png" width=70%, height=70%>
 
 Click [here](https://njeapp2.github.io/RWE-Track/3_Page) to continue reading 
 
