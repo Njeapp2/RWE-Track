@@ -1,5 +1,5 @@
 # Why Circular
-<img src="1_Photo.jpg" width="500" height="300">
+<img src="/Atom1/Photo1.1.jpg" width="500" height="300">
 
 Human beings have been taking control over their food supply and living conditions already for the
 past 10,000 years. However, since about the year 1900 many key parameters of human civilization
