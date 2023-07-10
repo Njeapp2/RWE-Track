@@ -1,7 +1,7 @@
 
 # Primary metal resources
 
-<img src="/Atom2/Photo2.1.jpg" width="500" height="300">
+<img src="Photo2.1.jpg" width="500" height="300">
 
 After a long period of stability in the 90’s, oil, metal and phosphate prices suddenly went through the
 roof as the Chinese economy expanded to a world-class player in 2003-2007. The severe economic
@@ -9,7 +9,7 @@ crisis that followed did not bring prices back to former levels (see box below).
 future prices of resources and restricted access to mining deposits could hurt advanced economies
 triggered an action of the European Commission towards *resource efficiency* in 2008.
 
-<img src="/Atom2/Photo2.2.png"  width=45%, height=45%>
+<img src="Photo2.2.png"  width=45%, height=45%>
 
 Market prices for metals and minerals fluctuate
 on a short timescale because mining operations
@@ -49,7 +49,7 @@ $c(P) = c_{1900} e^{-\alpha P};    c(P) = c_{1900}/(1 + \beta P)^\gamma$
 Note that for large values of P predictions differ
 essentially (see box underneath).
 
-<img src="/Atom2/Photo2.3.png" width=45%, height=45%>
+<img src="Photo2.3.png" width=45%, height=45%>
 
 Click [here](https://njeapp2.github.io/RWE-Track/Atom3/Page3) to continue reading 
 
