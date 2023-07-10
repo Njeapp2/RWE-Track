@@ -9,7 +9,7 @@ crisis that followed did not bring prices back to former levels (see box below).
 future prices of resources and restricted access to mining deposits could hurt advanced economies
 triggered an action of the European Commission towards *resource efficiency* in 2008.
 
-<img src="Photo2.2.png"  width=50%, height=50%>
+<img src="Photo2.2.png"  width="50%", height="50%">
 
 Market prices for metals and minerals fluctuate
 on a short timescale because mining operations
