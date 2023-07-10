@@ -8,7 +8,7 @@ The subjects treated on this webpage are:
 
  4. [Sustainability and the Circular Economy](https://njeapp2.github.io/RWE-Track/Atom4/Page4)
 
-$ x^2 $
+$x^2$
     
 
 
