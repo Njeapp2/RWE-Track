@@ -5,7 +5,7 @@ Human beings have been taking control over their food supply and living conditio
 past 10,000 years. However, since about the year 1900 many key parameters of human civilization
 show what appears like an accelerated exponential growth (see box below).
 
-<img src="1_Photo2.png" width="50%" height="50%">
+<img src="/Atom1/Photo1.2.png" width="50%" height="50%">
 
 Exponential growth is a feature of biological
 systems that are not limited by resource scarcity
@@ -29,7 +29,7 @@ no or only a minor rate of (re-)generation. In this case, the population will ex
 depleted. At this point, the size and consumption of the population cannot be sustained, and so it will
 shrink abruptly to the level matching the low rate of (re-)generation.
 
-<img src="1_Photo3.png" width="50%" height="50%">
+<img src="/Atom1/Photo1.3.png" width="50%" height="50%">
 
 Humans use biological and solar-based resources,
 such as food, cotton and hydropower, along with
