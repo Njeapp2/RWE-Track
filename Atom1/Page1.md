@@ -33,7 +33,7 @@ shrink abruptly to the level matching the low rate of (re-)generation.
 
 Humans use biological and solar-based resources,
 such as food, cotton and hydropower, along with
-fossil fuels, [metals](https://njeapp2.github.io/RWE-Track/2_Page) and minerals. The first
+fossil fuels, [metals](https://njeapp2.github.io/RWE-Track/Atom2/Page2) and minerals. The first
 resources have a relatively small reservoir and a
 high rate of regeneration, while the last resources
 are taken from large reservoirs and have a very
@@ -49,6 +49,6 @@ metals and minerals resources?
 * How do we reach sustainability (no depletion
 of critical resources)?
 
-Click [here](https://njeapp2.github.io/RWE-Track/2_Page) to continue reading 
+Click [here](https://njeapp2.github.io/RWE-Track/Atom2/Page2) to continue reading 
 
 [^1]: Victor B. Scheffer, The rise and fall of a reindeer herd; S. Jeffries et al., Trends and Status of Harbor Seals in Washington state: 1978-1999.
