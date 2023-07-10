@@ -29,7 +29,7 @@ no or only a minor rate of (re-)generation. In this case, the population will ex
 depleted. At this point, the size and consumption of the population cannot be sustained, and so it will
 shrink abruptly to the level matching the low rate of (re-)generation.
 
-<img src="/Atom1/Photo1.3.png" width="50%" height="50%">
+<img src="Photo1.3.png" width="50%" height="50%">
 
 Humans use biological and solar-based resources,
 such as food, cotton and hydropower, along with
