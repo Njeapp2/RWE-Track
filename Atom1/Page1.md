@@ -1,11 +1,11 @@
 # Why Circular
-<img src="/Atom1/Photo1.1.jpg" width="500" height="300">
+<img src="Photo1.1.jpg" width="500" height="300">
 
 Human beings have been taking control over their food supply and living conditions already for the
 past 10,000 years. However, since about the year 1900 many key parameters of human civilization
 show what appears like an accelerated exponential growth (see box below).
 
-<img src="/RWE-Track/Atom1/Photo1.2.png" width="50%" height="50%">
+<img src="Photo1.2.png" width="50%" height="50%">
 
 Exponential growth is a feature of biological
 systems that are not limited by resource scarcity
