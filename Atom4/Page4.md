@@ -6,7 +6,7 @@ The biosphere of the Earth is a remarkably circular system. Elements and compoun
 life are continuously recycled between plants, animals and the soils, oceans and atmosphere (see box
 below for *Carbon*).
 
-<img src="Photo4.2.png">
+<img src="Photo4.2.png" width="50%" height="50%">
 
 Before the appearance on Earth of human
 beings, and even for some time after, the
