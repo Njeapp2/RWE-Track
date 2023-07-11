@@ -1,6 +1,8 @@
 # Transition to biomaterials and green energy
 
-<img src="Photo5.1.jpg" width="50%" height="50%">
+<p align="center">
+  <img src="Photo5.1.jpg" width="50%" height="50%">
+</p>
 
 The two main drivers for replacing fossil resources by renewables are to reduce Greenhouse gas
 emissions and to avoid resource insecurity. The potential impact of these linear risks on the living
