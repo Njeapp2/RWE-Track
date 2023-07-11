@@ -1,7 +1,4 @@
-
-
 # Limits on Greenhouse Gases
-<img src="Photo3.1.jpg" width="500" height="300">
 
 The rate at which the biosphere can absorb manmade (anthropogenic) greenhouse gases (GHG) without
 serious changes of the global surface temperature and ocean pH is about 5-10 Gt CO<sub>2</sub>eq/y[^1][^2]. This is far
