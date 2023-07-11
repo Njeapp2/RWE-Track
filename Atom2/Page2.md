@@ -52,7 +52,7 @@ with exponential or power law models,
   </head>
   <body>
     <p>
-      The first formula: \(c(P) = c_{1900} e^{-\alpha P}; c(P) = \frac{c_{1900}}{(1 + \beta P)^{\gamma}}\)
+      \(c(P) = c_{1900} e^{-\alpha P}; c(P) = \frac{c_{1900}}{(1 + \beta P)^{\gamma}}\)
     </p>
   </body>
 </html>
