@@ -51,8 +51,16 @@ with exponential or power law models,
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
   </head>
   <body>
-     <p> The first formula: \(c(P) = c_{1900} e^{-\alpha P}\) </p>
-    <p> The first formula: $c(P) = c_{1900} e^{-\alpha P}$ </p>
+    <p>
+      The first formula: \(c(P) = c_{1900} e^{-\alpha P}\)
+    </p>
+    <p>
+      The second formula: \(c(P) = \frac{c_{1900}}{(1 + \beta P)^{\gamma}}\)
+    </p>
+    <p>
+      The first formula: $c(P) = c_{1900} e^{-\alpha P}$
+    </p>
+
   </body>
 </html>
 
