@@ -14,7 +14,18 @@ and,
 * an increasing acidity of the oceans (a drop in pH of 0.1 at 2000 Gt of cumulative CO<sub>2</sub>).
 
 Historical data (1970-2015) show that the rate of the world’s GHG emissions increased approximately linearly with time:
-$$GHG \\ [Gt \\ CO_2eq/y] = 50 + 0.6(y - 2010)$$
+<!-- ```html -->
+<html>
+  <head>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+  </head>
+  <body>
+    <p>
+      $$GHG \\ [Gt \\ CO_2eq/y] = 50 + 0.6(y - 2010)$$
+    </p>
+  </body>
+</html>
  
 Different scenario’s for future GHG emissions
 exist, in which these emissions accelerate or
