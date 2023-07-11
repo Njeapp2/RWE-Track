@@ -45,6 +45,8 @@ response, the EU promised yearly multi-billion euro investments until 2025 in th
 mobility, food and the built environment. Industries have responded by asking their member states to
 multiply the EU effort.
 
+Click [here](https://njeapp2.github.io/RWE-Track/Atom6/Page6) to continue reading 
+
 [^1]: Frido Kraanen, PGGM, Working group Finance report, 2016
 [^2]: Systemiq, Sun Institute, Ellen McArthur Foundation, Achieving “Growth Within”, 2017
 [^3]: Cambridge Associates, Cleantech Investments, 2013, 2014
