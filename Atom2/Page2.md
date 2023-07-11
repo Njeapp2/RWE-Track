@@ -44,7 +44,7 @@ revealed the development of ore grade in the
 data can be fit with various model functions, e.g.
 with exponential or power law models,
 
-```html
+<!-- ```html -->
 <html>
   <head>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
