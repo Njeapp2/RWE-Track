@@ -1,14 +1,14 @@
 # Transition to biomaterials and green energy
 
 The two main drivers for replacing fossil resources by renewables are to reduce Greenhouse gas
-emissions and to avoid resource insecurity. The potential impact of these linear risks on the living
+emissions and to avoid resource insecurity. The potential impact of these *linear risks* on the living
 environment and prosperity of people depends strongly on where they live and who they are. In fragile
 regions, these impacts mostly affect the average citizen and small businesses that have their assets
 locked in houses and local infrastructure, and indirectly they affect the banks that finance these
 stakeholders’ debts[^1]. On the other side of the scale are shareholders and businesses within the oil, gas
 and fossil chemicals sector, and owners of power plants: also known as industries “relying on one-way
-flow” and “not carrying their environmental costs”. These latter parties feel a circular risk: their assets
-may strand, or in any case perform less well financially, by the transition to circularity. In between are
+flow” and “not carrying their environmental costs”. These latter parties feel a *circular risk:* their assets
+may *strand*, or in any case perform less well financially, by the transition to circularity. In between are
 large companies and finance groups who can operate in either economy, but do need to time their
 investments for the transition from linear to circular markets. To understand what makes the balance
 swing, economically, socially and technologically, we should look at Europe, as an example of an
