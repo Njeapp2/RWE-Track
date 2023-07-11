@@ -30,7 +30,7 @@ functional than at the start of the cycle, then only part of the material value 
 shows the main mechanisms (red) in the cycle that create a loss of material value.
 
 <p align="center">
-<img src="Photo6.1.png" width="50%" height="50%">
+<img src="Photo6.1.png" width="80%" height="80%">
 </p>
 
 [^1]: More specifically, H2 and He are lost into space from the atmosphere and elements like uranium are consumed in nuclear
