@@ -11,6 +11,12 @@ The subjects treated on this webpage are:
 $x^2$
 
 $P$
-    
+
+Here is an inline equation: \(E = mc^2\).
+
+And here is a displayed equation:
+
+\[f(x) = \int_{-\infty}^{\infty} e^{-2\pi i \xi x} \, d\xi\]
+
 
 
