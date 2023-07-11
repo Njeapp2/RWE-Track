@@ -12,4 +12,4 @@ The subjects treated on this webpage are:
 
  5. [Transition to biomaterials and green energy](https://njeapp2.github.io/RWE-Track/Atom5/Page5)
 
- 6. [Losses from a Circular Economy](https://njeapp2.github.io/RWE-Track/Atom5/Page5)
+ 6. [Losses from a Circular Economy](https://njeapp2.github.io/RWE-Track/Atom6/Page6)
