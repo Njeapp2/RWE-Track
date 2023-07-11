@@ -19,7 +19,7 @@ Historical data (1970-2015) show that the rate of the world’s GHG emissions in
   </head>
   <body>
     <p>
-      $$GHG \\ [Gt \\ CO_2eq/y] = 50 + 0.6(y - 2010)$$
+      $$GHG \ [Gt \ CO_2eq/y] = 50 + 0.6(y - 2010)$$
     </p>
   </body>
 </html>
