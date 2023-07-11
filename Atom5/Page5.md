@@ -1,5 +1,7 @@
 # Transition to biomaterials and green energy
 
+<img src="Photo5.1.jpg" width="50%" height="50%">
+
 The two main drivers for replacing fossil resources by renewables are to reduce Greenhouse gas
 emissions and to avoid resource insecurity. The potential impact of these linear risks on the living
 environment and prosperity of people depends strongly on where they live and who they are. In fragile
@@ -24,6 +26,8 @@ imports in 2015, thus fulfilling EU strategic goals. This rate of reduction will
 gas emissions to near zero near the end of the century. Whereas the statistics look OK for energy, the
 biomaterial transition, making polymers from bio-resources, is not going well, and neither has the
 production of polymers from oil been cut as a result of smart product design or recycling.
+
+<img src="Photo5.2.png" width="50%" height="50%">
 
 Analysts mention as main reasons for the general
 lack of investment in circular value chains: high
