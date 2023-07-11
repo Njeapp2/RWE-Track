@@ -61,7 +61,7 @@ with exponential or power law models,
     <p>$c(P) = c<em>{1900} e^{-\alpha P};    c(P) = c</em>{1900}/(1 + \beta P)^\gamma$</p>
   </body>
 </html>
-</head>pre>
+</pre>
 
 $c(P) = c_{1900} e^{-\alpha P};    c(P) = c_{1900}/(1 + \beta P)^\gamma$
 
