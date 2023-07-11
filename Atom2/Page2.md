@@ -44,30 +44,6 @@ revealed the development of ore grade in the
 data can be fit with various model functions, e.g.
 with exponential or power law models,
 
-<pre>
-```html
-<html>
-  <head>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css"
-      integrity="sha384-GvrOXuhMATgEsSwCs4smul74iXGOixntILdUW9XmUC6+HX0sLNAK3q71HotJqlAn"
-      crossorigin="anonymous"
-    />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.js" integrity="sha384-cpW21h6RZv/phavutF+AuVYrr+dA8xD9zs6FwLpaCct6O9ctzYFfFr4dgmgccOTx" crossorigin="anonymous"></script>
-  </head>
-  <body>
-    <p>
-      The first formula: \(c(P) = c_{1900} e^{-\alpha P}\)
-    </p>
-    <p>
-      The second formula: \(c(P) = \frac{c_{1900}}{(1 + \beta P)^{\gamma}}\)
-    </p>
-  </body>
-</html>
-</head>
-</pre>
-
 $c(P) = c_{1900} e^{-\alpha P};    c(P) = c_{1900}/(1 + \beta P)^\gamma$
 
 Note that for large values of P predictions differ
