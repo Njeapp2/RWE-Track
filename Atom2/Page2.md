@@ -52,20 +52,10 @@ with exponential or power law models,
   </head>
   <body>
     <p>
-      The first formula: \(c(P) = c_{1900} e^{-\alpha P}\)
+      The first formula: \(c(P) = c_{1900} e^{-\alpha P}; c(P) = \frac{c_{1900}}{(1 + \beta P)^{\gamma}}\)
     </p>
-    <p>
-      The second formula: \(c(P) = \frac{c_{1900}}{(1 + \beta P)^{\gamma}}\)
-    </p>
-    <p>
-      The first formula: $c(P) = c_{1900} e^{-\alpha P}$
-    </p>
-
   </body>
 </html>
-
-
-$c(P) = c_{1900} e^{-\alpha P};    c(P) = c_{1900}/(1 + \beta P)^\gamma$
 
 Note that for large values of P predictions differ
 essentially (see box underneath).
