@@ -1,3 +1,5 @@
+# Losses from a Circular Economy
+
 If we say that materials are lost from the cycle, we do not mean that elements such as Fe (iron), Cu
 (copper) or P (Phosphor) physically vanish. Indeed, apart from some rare cases[^1], most elements are
 conserved within the biosphere. Even if we lose sight of our End-of-Life products, because they end up
