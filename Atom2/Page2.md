@@ -59,6 +59,7 @@ with exponential or power law models,
     $c(P) = c_{1900} e^{-\alpha P};    c(P) = c_{1900}/(1 + \beta P)^\gamma$
     <p>$c(P) = c<em>{1900} e^{-\alpha P};    c(P) = c</em>{1900}/(1 + \beta P)^\gamma$</p>
     $test$
+    \(c(P) = c_{1900} e^{-\alpha P}\)
   </body>
 </html>
 </pre>
