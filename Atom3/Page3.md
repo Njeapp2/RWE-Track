@@ -53,6 +53,8 @@ Europe3. This fundamental conflict of interests and the fact that predictions of
 emissions due to indirect effects are not supported (yet) by experimental data complicates negotiations
 between the various stakeholders.
 
+Click [here](https://njeapp2.github.io/RWE-Track/Atom4/Page4) to continue reading 
+
 [^1]: Estimated from data of the International Panel on Climate Change. Note that the term CO<sub>2</sub>eq indicates that the effect of emissions of methane and N2O are included next to CO<sub>2</sub>.
 [^2]: IPCC, 2014: Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change.
 [^3]: PBL Netherlands EAA, Trends in Global CO<sub>2</sub> emissions: 2016 report.
