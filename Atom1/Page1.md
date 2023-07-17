@@ -3,7 +3,9 @@ Human beings have been taking control over their food supply and living conditio
 past 10,000 years. However, since about the year 1900 many key parameters of human civilization
 show what appears like an accelerated exponential growth (see box below).
 
-<img src="Photo1.2.png" width="50%" height="50%">
+<p align="center">
+<img src="Photo1.2.png" width="40%" height="40%">
+</p>
 
 Exponential growth is a feature of biological
 systems that are not limited by resource scarcity
@@ -27,7 +29,9 @@ no or only a minor rate of (re-)generation. In this case, the population will ex
 depleted. At this point, the size and consumption of the population cannot be sustained, and so it will
 shrink abruptly to the level matching the low rate of (re-)generation.
 
-<img src="Photo1.3.png" width="50%" height="50%">
+<p align="center">
+<img src="Photo1.3.png" width="40%" height="40%">
+</p>
 
 Humans use biological and solar-based resources,
 such as food, cotton and hydropower, along with
@@ -44,7 +48,7 @@ of living and when will we hit reservoirs’ limits?
 and solar-based resources?
 * Can we increase the rate of recycling of
 metals and minerals resources?
-* How do we reach sustainability (no depletion
+* How do we reach [sustainability](https://njeapp2.github.io/RWE-Track/Atom4/Page4) (no depletion
 of critical resources)?
 
 Click [here](https://njeapp2.github.io/RWE-Track/Atom2/Page2) to continue reading 
