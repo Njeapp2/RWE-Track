@@ -4,9 +4,11 @@ After a long period of stability in the 90’s, oil, metal and phosphate prices 
 roof as the Chinese economy expanded to a world-class player in 2003-2007. The severe economic
 crisis that followed did not bring prices back to former levels (see box below). The understanding that
 future prices of resources and restricted access to mining deposits could hurt advanced economies
-triggered an action of the European Commission towards *resource efficiency* in 2008.
+triggered an action of the European Commission towards [*resource efficiency*](https://njeapp2.github.io/RWE-Track/Atom10/Page10) in 2008.
 
-<img src="Photo2.2.png" width="50%" height="50%">
+<p align="center">
+<img src="Photo2.2.png" width="45%" height="45%">
+</p>
 
 Market prices for metals and minerals fluctuate
 on a short timescale because mining operations
@@ -57,7 +59,9 @@ with exponential or power law models,
 Note that for large values of P predictions differ
 essentially (see box underneath).
 
-<img src="Photo2.3.png" width="50%" height="50%">
+<p align="center">
+<img src="Photo2.3.png" width="45%" height="45%">
+</p>
 
 Click [here](https://njeapp2.github.io/RWE-Track/Atom3/Page3) to continue reading 
 
