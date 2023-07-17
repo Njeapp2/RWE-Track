@@ -33,4 +33,6 @@ shows the main mechanisms (red) in the cycle that create a loss of material valu
 <img src="Photo6.1.png" width="80%" height="80%">
 </p>
 
+Click [here](https://njeapp2.github.io/RWE-Track/Atom7/Page7) to continue reading.
+
 [^1]: More specifically, H2 and He are lost into space from the atmosphere and elements like uranium are consumed in nuclear reactions.
