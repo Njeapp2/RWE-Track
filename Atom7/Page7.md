@@ -29,5 +29,7 @@ made attractive for material producers to recover resources back from waste by f
 technology innovation.
 
 <p align="center">
-<img src="Photo7.1.png" width="50%" height="50%">
+<img src="Photo7.1.png" width="45%" height="45%">
 </p>
+
+Click [here](https://njeapp2.github.io/RWE-Track/Atom8/Page8) to continue reading.
