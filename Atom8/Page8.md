@@ -17,6 +17,19 @@ separators are put in sequence; all separators have the same process capacity *C
 the mixture is *M* [kg]. Then, theoretically, we need a process line of *N* - 1 machines for a period of
 time *M/C* (see the figure below). So, the total effort (or sorting investment) in machine-hours is:
 
+<!-- ```html -->
+<html>
+  <head>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+  </head>
+  <body>
+    <p>
+      $$Effort \propto (N-1) \frac{M}{C}$$
+    </p>
+  </body>
+</html>
+
 <p align="center">
 <img src="Photo8.1.png" width="80%" height="80%">
 </p>
@@ -32,6 +45,19 @@ the same sorter. If particles have similar mass and
 while *c<sub>1</sub>* ≥ *c<sub>2</sub>* ≥ ... ≥ *c<sub>n</sub>*, then the effort of first recovering material 1 in the first run, then material 2,
 etc., is at most about half of what is needed with *N* - 1 separators in line.
 
+<!-- ```html -->
+<html>
+  <head>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+  </head>
+  <body>
+    <p>
+      $$Effort \propto \dfrac{M}{C} \sum_{i=1}^{N} i \, c_i < \frac{(N+1)M}{2C}$$
+    </p>
+  </body>
+</html>
+
 ### Logarithmic sorting
 Counter to intuition, the mixture can be sorted much more efficiently if a warehouse is available for
 storing and retrieving intermediate products. In this case, it is possible to divide the mix first into two
@@ -39,7 +65,18 @@ intermediate products, each with ca *N*/2[^1] materials. Then the procedure is r
 intermediate products, dividing them into mixtures of ca *N*/4 materials. This carries on until pure
 products are obtained. Then for large *N*, the effort scales as[^2]<sup>,</sup>[^3]
 
-
+<!-- ```html -->
+<html>
+  <head>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+  </head>
+  <body>
+    <p>
+      $$Effort \propto \dfrac{M}{C} log_2\,{N}$$
+    </p>
+  </body>
+</html>
 
 This result is important, because log<sub>2</sub> *N* is increasing much slower for large *N* than *N* or *N*/2 (see
 figure below). It shows that products made from many different materials are not necessarily in conflict
