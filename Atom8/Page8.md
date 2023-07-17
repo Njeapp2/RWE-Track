@@ -6,7 +6,7 @@ packaging waste from households, EoL vehicles and Waste from Electric and Electr
 materials: polymers of all kinds of grades and colours, metal alloys, as well as structured materials like
 Printed Circuit Boards (PCB’s) and types of coated glass. Shredding or cutting these wastes produces
 particles of as many different materials and, on top of that, also non-liberated particles (particles
-containing more than a single material). An important question for realising a circular economy is
+containing more than a single material). An important question for realising a [circular economy](https://njeapp2.github.io/RWE-Track/Atom4/Page4) is
 whether pure materials can be recovered efficiently from complex wastes. A fundamental question is
 how the effort of separating mixtures of particles scales with the number *N* of different materials.
 
