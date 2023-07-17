@@ -8,7 +8,7 @@ API. (n.d.). *API-Natural-Gas-Supply-Chain*.
 
 Atasu, A., Dumas, C., & Van Wassenhove, L. N. (2021). *The Circular Business Model*. https://hbr.org/2021/07/the-circular-business-model
 
-Azevedo, M., Moore, A., van der Heuvel, C., & Hoey, M. V. (2022). *Capturing the green-premium value from sustainable materials | McKinsey*. https://www.mckinsey.com/industries/metals-and-mining/our-insights/capturing-the-green-premium-value-from-sustainable-materials#/
+Azevedo, M., Moore, A., van der Heuvel, C., & Hoey, M. V. (2022). *Capturing the green-premium value from sustainable materials, McKinsey*. https://www.mckinsey.com/industries/metals-and-mining/our-insights/capturing-the-green-premium-value-from-sustainable-materials#/
 
 Coelho, A., & De Brito, J. (2013). Economic viability analysis of a construction and demolition waste recycling plant in Portugal – part I: location, materials, technology and economic analysis. *Journal of Cleaner Production, 39*, 338–352. https://doi.org/10.1016/J.JCLEPRO.2012.08.024
 
@@ -48,9 +48,9 @@ Mudd, G. M. (2010). *The “Limits to Growth” and ‘Finite’ Mineral Resourc
 
 Programme, U. N. E. (2021). *2021 GLOBAL STATUS REPORT FOR BUILDINGS AND CONSTRUCTION Towards a zero-emissions, efficient and resilient buildings and construction sector* [Techreport]. www.globalabc.org.
 
-RTS. (n.d.). *Waste Management App - On-Demand Waste Collection | Recycle Track Systems*. https://www.rts.com/services/waste-management-app/
+RTS. (n.d.). *Waste Management App - On-Demand Waste Collection, Recycle Track Systems*. https://www.rts.com/services/waste-management-app/
 
-Rubicon. (2021). *Rubicon Launches On-Demand Recycling Services for Hard-to-Recycle Materials | Rubicon*. https://www.rubicon.com/news/rubicon-launches-on-demand-recycling-services-for-hard-to-recycle-materials/
+Rubicon. (2021). *Rubicon Launches On-Demand Recycling Services for Hard-to-Recycle Materials, Rubicon*. https://www.rubicon.com/news/rubicon-launches-on-demand-recycling-services-for-hard-to-recycle-materials/
 
 Skea, J. ;., Shukla, P. R. ;., Reisinger, A. ;., Slade, R. ;., Pathak, M. ;., Al Khourdajie, A. ;., Van Diemen, R. ;., Abdulla, A. ;., Akimoto, K. ;., Babiker, M., Skea, J., Shukla, P. R., Reisinger, A., Slade, R., Pathak, M., Khourdajie, A., Diemen, V., Abdulla, R., Akimoto, A., … Byers, M. (2022). *Summary for Policymakers*. https://doi.org/10.1017/9781009157926.001
 
