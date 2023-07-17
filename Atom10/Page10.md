@@ -6,7 +6,7 @@ housing, energy and tools to industry, and the consequent innovation of industri
 explosion of consumption. Thomas Piketty reports that the purchasing power of an average worker in
 Europe increased 12-fold between 1820 and 2012[^1]: a sign of the large contribution of products and
 services to today’s standard of living. Unfortunately, the use of resources also boomed during this same
-period, so that some resources are now under stress. These resources are being used at a rate that
+period, so that some resources are now under [stress](https://njeapp2.github.io/RWE-Track/Atom9/Page9). These resources are being used at a rate that
 exceeds the biosphere’s capacity to (re-)generate them, and the first diplomatic, trade and military
 conflicts around resources are a fact. Some governments are presently seeking ways to create the same
 standard of living for their citizens while using less resources, in short: to be more resource-efficient[^2].
@@ -39,7 +39,7 @@ standard of living. In other words, we can say that a €25 ticket for a circus 
 its contribution to the standard of living to a €25 hair dryer[^3]. The numerator in the formula for resource
 efficiency can therefore be approximated by (the sum of) sales prices of products and services.
 
-There exists no perfect indicator for resource stress. By using the cost of energy and materials in
+There exists no perfect indicator for [resource stress](https://njeapp2.github.io/RWE-Track/Atom9/Page9). By using the cost of energy and materials in
 production as a proxy for the resource stress created by a product of service, we account for stress
 resulting from
 1. the scarcity of resources,
@@ -61,6 +61,8 @@ With this approximation, the resource efficiency of a product becomes:
     </p>
   </body>
 </html>
+
+Click [here](https://njeapp2.github.io/RWE-Track/Atom11/Page11) to continue reading.
 
 [^1]: Thomas Piketty, *Capital in the Twenty-First Century*, p. 86-88.
 [^2]: For a general introduction, see Roadmap to a Resource Efficient Europe, COM/2011/0571 final
