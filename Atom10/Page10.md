@@ -13,6 +13,19 @@ A first step towards that aim is to find a way to measure resource efficiency. I
 the resource efficiency of a product, a service, an industry sector or of an entire society will have the
 following form (X denotes the product, service, etc.):
 
+<!-- ```html -->
+<html>
+  <head>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+  </head>
+  <body>
+    <p>
+      $$ Resource \: efficiency \: (X) = \frac{(contribution \: of \: X \: to) \: the\:standard\: of\: living}{(contribution\: of \:X \:to)\: the\: stress\: on\: resources} $$
+    </p>
+  </body>
+</html>
+
 The larger this ratio, the more consumer value is created for the same amount of resource stress. Of
 course, this formula just shifts the problem from computing resource efficiency to the problems of
 computing the contributions of a product or service to the standard of living and to resource stress.
@@ -34,6 +47,18 @@ resulting from
 
 With this approximation, the resource efficiency of a product becomes:
 
+<!-- ```html -->
+<html>
+  <head>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+  </head>
+  <body>
+    <p>
+      $$ Resource \: efficiency \: (X) = \frac{Sales\: price\: of \:product}{} $$
+    </p>
+  </body>
+</html>
 
 [^1]: Thomas Piketty, *Capital in the Twenty-First Century*, p. 86-88.
 [^2]: For a general introduction, see Roadmap to a Resource Efficient Europe, COM/2011/0571 final
