@@ -5,7 +5,7 @@ for example through wars, shortage of potable water, pollution of air and soil, 
 jobs or loss of biodiversity, while, at the same time, the resource is essential for making products and
 services that add significantly to our standard of living. The production of materials and energy (e.g.
 heat, electricity, reducing agents) involves the use of massive amounts of stressed resources. Examples
-are oil and gas, the capacity of the biosphere for CO<sub>2</sub>, some ore deposits and sources of fresh water.
+are oil and gas, the [capacity of the biosphere for CO<sub>2</sub>](https://njeapp2.github.io/RWE-Track/Atom3/Page3), some ore deposits and sources of fresh water.
 
 Since we aim to minimize the stress of production and consumption, resource stress is an important
 issue. Unfortunately, there are no perfect indicators for resource stress. The use of 1 m<sup>3</sup> of fresh water,
