@@ -86,6 +86,8 @@ with the efficient implementation of a circular economy.
 <img src="Photo8.2.png" width="60%" height="60%">
 </p>
 
+Click [here](https://njeapp2.github.io/RWE-Track/Atom9/Page9) to continue reading.
+
 [^1]: The number of materials in the intermediate products is *N*/2, (*N*-1)/2 or (*N*+1)/2, depending on *N* being odd or even.
 [^2]: log<sub>2</sub> *N* is roughly equal to the number of times that *N* needs to be divided by 2 to get a number smaller than or equal to 1.
 [^3]: J.B. Dahmus and T.G. Gutowski, What Gets Recycled: *An Information Theory Based Model for Product Recycling*, Environ. Sci. Technol. 2007, 41, 7543-7550
