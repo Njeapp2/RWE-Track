@@ -5,7 +5,11 @@ from both resource use and environmental impact. Focusing on economic activity (
 this means that we do want the economy to grow but we do not want to increase the resource use at the same
 pace. Taking into consideration economic activity (GDP) and environmental impact, implementing circular
 economy entails an increase in economic activity and a simultaneous improvement of the environmental
-conditions (see figure).
+conditions (see figure below). In this figure, a graphic representation of the concept of ‘Decoupling’ is portrayed (UNEP, 2011).
+
+<p align="center">
+<img src="Photo11.1.png" width="60%" height="60%">
+</p>
 
 The same considerations apply when looking at the trends of human well-being, resource use and
 environmental impact in the figure. Implementing circular economy means to improve human well-being and
