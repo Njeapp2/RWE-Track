@@ -41,3 +41,17 @@ Market prices of materials and energy are established by the balance of their *m
 production (with a considerable component proportional to resource stress) and their *minimal* value in
 making products and services. Therefore, the cost of materials and energy in producing some product
 or service *X* may be used as an indicator for its *marginal* resource stress:
+
+
+
+<p align="center">
+<img src="Photo9.1.png" width="60%" height="60%">
+</p>
+
+<p align="center">
+<sub>Correlation of the prices of materials (bulk polymers indicated by an ellipse) and their carbon footprints, both per unit mass
+(data taken from T.G. Gutowski, S. Sahni, J.M. Allwood, M.F. Ashby and E. Worrell, <i>The energy required to produce
+materials: constraints on energy-intensity improvements, parameters of demand</i>, Philosophical Transactions: Mathematical,
+Physical and Engineering Sciences, <b>371</b>, Material efficiency: providing material services with less material production, 13
+March 2013, pp. 1-14).</sub>
+</p>
