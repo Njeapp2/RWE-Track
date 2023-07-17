@@ -1,3 +1,5 @@
+# Resource Efficiency
+
 Products and services define a considerable part of the standard of living for citizens in modern
 civilizations. In the past centuries, families increasingly outsourced the production of food, clothing,
 housing, energy and tools to industry, and the consequent innovation of industrial production led to an
