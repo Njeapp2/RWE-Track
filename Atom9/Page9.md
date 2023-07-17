@@ -56,7 +56,7 @@ or service *X* may be used as an indicator for its *marginal* resource stress:
 </html>
 
 <p align="center">
-<img src="Photo9.1.png" width="60%" height="60%">
+<img src="Photo9.1.png" width="55%" height="55%">
 </p>
 
 <p align="center">
