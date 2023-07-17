@@ -55,7 +55,7 @@ With this approximation, the resource efficiency of a product becomes:
   </head>
   <body>
     <p>
-      $$ Resource \: efficiency \: (X) = \frac{Sales\: price\: of \:product}{} $$
+      $$ Resource \: efficiency \: (X) = \frac{Sales\: price\: of \:product}{\sum_{energy \: carriers} energy * market \: price + \sum_{materials} mass * market \: price} $$
     </p>
   </body>
 </html>
