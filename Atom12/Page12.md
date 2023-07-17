@@ -14,6 +14,10 @@ the supply chain and logistics) and business models (Di Maio and Rem, 2015).
 Moreover the adoption of CE practices appears as a timely, relevant and practical option to meet the
 goals of Sustainable Development (SD).
 
+<p align="center">
+<img src="Photo12.1.png" width="60%" height="60%">
+</p>
+
 Accordingly, the CE paradigm is being extensively explored by institutions as a possible path to
 increase the sustainability of our economic system (Elia et al., 2017). To some, e.g. Linder et al.
 (2017), the ultimate goal of a CE is a SD. Anyway it is clear that both concepts need appropriate means
