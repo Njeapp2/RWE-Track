@@ -42,7 +42,18 @@ production (with a considerable component proportional to resource stress) and t
 making products and services. Therefore, the cost of materials and energy in producing some product
 or service *X* may be used as an indicator for its *marginal* resource stress:
 
-
+<!-- ```html -->
+<html>
+  <head>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+  </head>
+  <body>
+    <p>
+      $$ Resource \: stress \: (X) \approx \sum_{energy \: carriers} energy * market \: price + \sum_{materials} mass * market \: price $$
+    </p>
+  </body>
+</html>
 
 <p align="center">
 <img src="Photo9.1.png" width="60%" height="60%">
