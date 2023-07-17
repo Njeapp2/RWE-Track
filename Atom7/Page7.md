@@ -27,3 +27,5 @@ strategy for individual material producers while materials are still largely pro
 ores. Whether it is, depends on the societal organization of material cycles, in particular on whether it can be
 made attractive for material producers to recover resources back from waste by financial incentives or
 technology innovation.
+
+<img src="Photo7.1.png" width="60%" height="60%">
