@@ -1,6 +1,6 @@
 # Standardization
 
-The Earth’s biosphere is often taken as a model for a future circular economy of industrialized society, after the
+The Earth’s biosphere is often taken as a model for a future [circular economy](https://njeapp2.github.io/RWE-Track/Atom4/Page4) of industrialized society, after the
 original philosophy of architect Walter R. Stahel. The idea is that by studying the interplay of actors, driving
 forces and materials in the biosphere we may learn how to design a regenerative industrial society. One of the
 striking issues of the biosphere is, that, even though bio-organisms are the result of a billion years of random
