@@ -2,7 +2,7 @@
 
 Although the CE approach contrasts with the mind-set embedded in most current industrial operations
 where even the terminology (value chain, supply chain, end user) expresses a linear view, several
-benefits may rise from the shift to the Circular Economy model and to a more resource-efficient path.
+benefits may rise from the shift to the [Circular Economy](https://njeapp2.github.io/RWE-Track/Atom11/Page11) model and to a more [resource-efficient](https://njeapp2.github.io/RWE-Track/Atom10/Page10) path.
 The material saving potential arising from the transition to a CE model and to a more resource efficient
 path is estimated to 500 billion € per year for the European industry (Europe INNOVA, 2012). The job
 creation potential of remanufacturing and recycling in Europe is estimated at one million (Ellen Mac
@@ -32,13 +32,13 @@ The main questions raised by researchers are (Saidani et al., 2018):
 Therefore, it is commonly acknowledged that to promote CE, the introduction of monitoring and
 evaluation tools like indicators to measure and quantify this progress becomes essential (Di Maio and
 Rem, 2015; Su et al., 2013; Geng et al., 2012).
-As seen in Atom 11 (Circular Economy Definitions), even definitions of CE that sound logical and
+As seen in [Atom 11](https://njeapp2.github.io/RWE-Track/Atom11/Page11) (Circular Economy Definitions), even definitions of CE that sound logical and
 comprehensive, do not really capture the essence of CE.
 Due to the common understanding and agreement about the importance of indicators to measure
 progresses and to facilitate the transition towards CE (and SD), many CE indicators have been
 proposed so far. Saidani (Saidani et al. 2018) collected and analyzed 55 circularity indicators.
 
-Different methodologies and approaches are used to measure circularity at macro, meso and micro
+Different methodologies are used to measure circularity at macro, meso and micro
 levels. A large number of approaches use environmental impact assessment (e.g. Figge and Hahn,
 2004; Heijungs,1992). The main purpose of these approaches is to assess the environmental impact that
 results from making or using a product. However, most of such indicators cannot provide information
@@ -56,7 +56,7 @@ Another metric to measure circularity uses economy-wide material flow accounting
 (Wiedmann et al., 2012). In particular this approach has been adopted by governments and authorities.
 For example, the European Commission proposes ‘resource productivity,’ defined as gross domestic
 product (GDP) divided by domestic material consumption (DMC). To include the upstream raw
-materials related to imports and exports originating from outside the focal economy, material footprint
+materials related to imports and exports originating from outside the local economy, material footprint
 indicators have been proposed (Wiedmann et al., 2012).
 
 Nevertheless, these material flow productivity indicators in the form of ratios of (value added)/(amount
