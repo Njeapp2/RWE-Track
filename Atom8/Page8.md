@@ -17,7 +17,9 @@ separators are put in sequence; all separators have the same process capacity *C
 the mixture is *M* [kg]. Then, theoretically, we need a process line of *N* - 1 machines for a period of
 time *M/C* (see the figure below). So, the total effort (or sorting investment) in machine-hours is:
 
+<p align="center">
 <img src="Photo8.1.png" width="80%" height="80%">
+</p>
 
 ### Sensor sorting
 A powerful type of mechanical separation that is becoming increasingly popular is sensor sorting. A
@@ -43,7 +45,9 @@ This result is important, because log<sub>2</sub> *N* is increasing much slower 
 figure below). It shows that products made from many different materials are not necessarily in conflict
 with the efficient implementation of a circular economy.
 
+<p align="center">
 <img src="Photo8.2.png" width="60%" height="60%">
+</p>
 
 [^1]: The number of materials in the intermediate products is *N*/2, (*N*-1)/2 or (*N*+1)/2, depending on *N* being odd or even.
 [^2]: log<sub>2</sub> *N* is roughly equal to the number of times that *N* needs to be divided by 2 to get a number smaller than or equal to 1.
