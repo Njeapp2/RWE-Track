@@ -4,7 +4,9 @@ The biosphere of the Earth is a remarkably circular system. Elements and compoun
 life are continuously recycled between plants, animals and the soils, oceans and atmosphere (see box
 below for *Carbon*).
 
-<img src="Photo4.2.png" width="50%" height="50%">
+<p align="center">
+<img src="Photo4.2.png" width="40%" height="40%">
+</p>
 
 Before the appearance on Earth of human
 beings, and even for some time after, the
@@ -33,7 +35,7 @@ regenerated, and,
 * Our society and the environment will be restored from any negative impacts resulting from
 their production and use[^3].
 
-A society satisfying these requirements is called a *circular economy*.
+A society satisfying these requirements is called a [*circular economy*](https://njeapp2.github.io/RWE-Track/Atom11/Page11).
 
 Click [here](https://njeapp2.github.io/RWE-Track/Atom5/Page5) to continue reading 
 
