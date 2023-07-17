@@ -49,3 +49,5 @@ technical progress*”).
 4. Preston (2012) believes that: “*Central to the CE is the idea that open production systems − in which
 resources are extracted, used to make products and become waste after the product is consumed −
 should be replaced by systems that reuse and recycle resources and conserve energy*”
+
+Click [here](https://njeapp2.github.io/RWE-Track/Atom12/Page12) to continue reading.
