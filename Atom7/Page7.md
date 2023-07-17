@@ -28,4 +28,6 @@ ores. Whether it is, depends on the societal organization of material cycles, in
 made attractive for material producers to recover resources back from waste by financial incentives or
 technology innovation.
 
-<img src="Photo7.1.png" width="60%" height="60%">
+<p align="center">
+<img src="Photo7.1.png" width="50%" height="50%">
+</p>
