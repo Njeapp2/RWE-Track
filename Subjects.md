@@ -25,3 +25,5 @@ The subjects treated on this webpage are:
  11. [Circular Economy Definitions](https://njeapp2.github.io/RWE-Track/Atom11/Page11)
 
  12. [Circular Economy Indicators](https://njeapp2.github.io/RWE-Track/Atom12/Page12)
+
+[References](https://njeapp2.github.io/RWE-Track/References)
