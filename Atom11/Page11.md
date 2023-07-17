@@ -1,6 +1,6 @@
 # Circular Economy Definitions
 
-The main purpose of Circular Economy (CE) is to decouple human well-being and economic activity (GDP)
+The main purpose of [Circular Economy](https://njeapp2.github.io/RWE-Track/Atom4/Page4) (CE) is to decouple human well-being and economic activity (GDP)
 from both resource use and environmental impact. Focusing on economic activity (GDP) and resource use,
 this means that we do want the economy to grow but we do not want to increase the resource use at the same
 pace. Taking into consideration economic activity (GDP) and environmental impact, implementing circular
@@ -8,7 +8,7 @@ economy entails an increase in economic activity and a simultaneous improvement 
 conditions (see figure below). In this figure, a graphic representation of the concept of ‘Decoupling’ is portrayed (UNEP, 2011).
 
 <p align="center">
-<img src="Photo11.1.png" width="60%" height="60%">
+<img src="Photo11.1.png" width="55%" height="55%">
 </p>
 
 The same considerations apply when looking at the trends of human well-being, resource use and
