@@ -1,6 +1,6 @@
 # References
 
-For this website, the following references are used.
+**For this website, the following references are used.**
 
 Aluminium, E. (2019). *VISION 2050 EUROPEAN ALUMINIUM’S CONTRIBUTION TO THE EU’S MID-CENTURY LOW-CARBON ROADMAP A vision for strategic, low carbon and competitive aluminium*.
 
